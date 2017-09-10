@@ -3,7 +3,8 @@ protecao:
       rkhunter
       chkrootkit     
       checksec
- shodan:
+ censys;
+ shodan;
       exploit 
       busca:
         api
