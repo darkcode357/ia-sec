@@ -1,0 +1,24 @@
+protecao: 
+  analise de seguranca local:
+      rkhunter
+      chkrootkit     
+      checksec
+ shodan:
+      exploit 
+      busca:
+        api
+       blacklist 
+ 
+  ips
+    :1detectacao de buffer 
+  ids
+  firewall
+  waf 
+  cve(exploit-db,cve.org,pack-storm,cve.mitre)
+  
+  ataque:
+    camada 7 aplicacao:
+    camada 4(t50)
+    analise de rede loca para externa comparacao de cve para test de seguranca 
+    
+    
